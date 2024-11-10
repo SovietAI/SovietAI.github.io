@@ -1,0 +1,10 @@
+/* GENRAL */
+:root {
+    --sovred : 206, 19, 0; /*Custom colors */
+    --sovblack : 20, 21, 20;
+    --sovwhite : 247, 243,227;
+}
+
+body {
+    color: rgb(var(--sovblack))
+}
